@@ -1,0 +1,18 @@
+.home-container {
+  background-image: url("path/to/background.jpg");
+  background-size: cover;
+  height: 100vh;
+  padding-top: 50px;
+  color: white;
+  text-align: center;
+}
+
+.title {
+  font-size: 4em;
+  margin-top: 20px;
+  color: red;
+}
+
+.card-row {
+  margin-top: 50px;
+}

@@ -1,0 +1,15 @@
+.custom-card {
+  background-color: rgba(0, 0, 0, 0.5);
+  border: none;
+  color: white;
+}
+
+.card-image {
+  border-radius: 20px;
+  height: 300px;
+  object-fit: cover;
+}
+
+.card-title {
+  font-size: 1.5em;
+}
